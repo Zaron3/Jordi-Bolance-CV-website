@@ -81,3 +81,7 @@ The visual design of the website is focused on presenting myself in a profession
 ## Figma Project Link
 
 [View the Figma project here](https://www.figma.com/design/TAozIftXsgf29o0NnpoDUB/CV?node-id=0-1&m=dev&t=OeTFLW4mucTLHe9a-1)
+
+## Public link
+
+[View the Public page here](https://zaron3.github.io/Jordi-Bolance-CV-website/)
